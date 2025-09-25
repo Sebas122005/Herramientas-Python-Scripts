@@ -1,0 +1,19 @@
+{
+    "timestamp": "2025-09-25T03:06:05Z", 
+    "tipo": "string", 
+    "etiqueta": "takataka", 
+    "algoritmo": "sha256", 
+    "digest": "f6aab502fb8079e6adbcbd995ce8c126247190d564b6c64f83f58ed773a5745c", 
+    "size": 8
+}
+{
+    "timestamp": "2025-09-25T03:08:10Z", 
+    "tipo": "string", 
+    "etiqueta": "123456", 
+    "algoritmo": "sha256", 
+    "digest": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92", 
+    "size": 6
+}
+{"timestamp": "2025-09-25T03:09:24Z", "tipo": "string", "etiqueta": "2", "algoritmo": "sha256", "digest": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35", "size": 1}
+{"timestamp": "2025-09-25T03:10:36Z", "tipo": "file", "etiqueta": "calculo_probabilidades_martingala.py", "algoritmo": "sha256", "digest": "c5174adb2d37e4d4fde9a626ca71b732c12b91332579b795c6c740506541acb9", "size": 3692}
+{"timestamp": "2025-09-25T03:11:15Z", "tipo": "file", "etiqueta": "hasher.py", "algoritmo": "sha256", "digest": "db93050626d3c9b0da9d7f3e7c39416b45a0dba6a0677709a74e7a81e6ac2bc2", "size": 3525}
